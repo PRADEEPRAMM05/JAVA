@@ -1,0 +1,3 @@
+Bandages, 20, 15.00
+Antiseptic, 12, 60.00
+Thermometer, 4, 250.00

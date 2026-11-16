@@ -1,0 +1,13 @@
+==================================================
+   CONSOLIDATED MULTI-STORE DAILY SALES REPORT    
+==================================================
+Item: Paracetamol     | Qty: 10 | Total: Rs.   255.00
+Item: Amoxicillin     | Qty:  5 | Total: Rs.   600.00
+Item: CoughSyrup      | Qty:  8 | Total: Rs.   680.00
+Item: Bandages        | Qty: 20 | Total: Rs.   300.00
+Item: Antiseptic      | Qty: 12 | Total: Rs.   720.00
+Item: Thermometer     | Qty:  4 | Total: Rs. 1,000.00
+--------------------------------------------------
+TOTAL TRANSACTIONS: 6
+TOTAL GROSS SALES : Rs. 3,555.00
+==================================================
